@@ -14,5 +14,6 @@ public class ReverseString {
 
         StringBuilder str = new StringBuilder(name);
         System.out.println("option 2 " + str.reverse());
+        // Time complexity = O(n)
     }
 }
